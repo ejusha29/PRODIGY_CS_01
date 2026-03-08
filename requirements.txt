@@ -1,0 +1,12 @@
+# Caesar Cipher Project Requirements
+# Tkinter is included with Python, no external packages needed
+
+# For development and testing (optional)
+# pytest>=6.0
+# pylint>=2.0
+# black>=21.0
+
+# Notes:
+# - Python 3.6+ required
+# - Tkinter comes pre-installed with Python on Windows and macOS
+# - On Linux, install with: sudo apt-get install python3-tk
